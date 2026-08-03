@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Rei 👋
 
-<!--
-**rei-ii-dev/rei-ii-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇯🇵 Information Engineering Student from Japan
 
-Here are some ideas to get you started:
+## 🏆 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ AWS Certified Cloud Practitioner (CLF-C02)
+- 💻 Fundamental Information Technology Engineer (FE)
+
+## 💻 Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Python
+- Data Science
+
+## 🌱 Currently Learning
+
+- Bookkeeping
+- AWS
+- English
+
+## 🚀 Goal
+
+Build AI-powered software that solves real-world problems.
+
+---
+
+### 🛠 Tech Stack
+
+- Python
+- Git & GitHub
+- AWS
+- SQLite
+
+---
+
+Thanks for visiting my profile! 😄
